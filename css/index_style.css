@@ -1,0 +1,39 @@
+h1 {
+  text-align: center;
+  text-shadow: hoff voff blur #000;
+  text-decoration: underline;
+  letter-spacing: 10px;
+  font-weight: bold;
+  color: aquamarine;
+}
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  color: aquamarine;
+}
+
+p {
+  text-align: center;
+  color: aquamarine;
+}
+
+em {
+  font-weight: bold;
+}
+
+ol {
+  list-style-type: none;
+  text-align: center;
+}
+
+ul {
+  list-style-type: none;
+  text-align: center;
+  color: aquamarine;
+  line-height: 40px;
+}
+
+body {
+  background-color: firebrick;
+}
