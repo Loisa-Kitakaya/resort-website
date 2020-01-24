@@ -4,7 +4,7 @@
 ## Description
 This is a website for the X resort in Beach city. The main page of the websites has welcoming information to the resort for any potential visitors, and a summary of some of the amenities and services offered in the resort. It also has links that take the user to other pages in the site.
 ## Known Bugs
-There are no known bugs so far.
+There are no known bugs so far. But I will still keep checking.
 ## Technologies Used
 The technologies used to develop this website is: HTML and CSS
 ## Support and contact details
